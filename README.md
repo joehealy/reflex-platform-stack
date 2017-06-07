@@ -12,4 +12,10 @@ the bottom of the stack.yaml file.
 A version of the stack.yaml for compiling with ghcjs will be uploaded
 shortly.
 
+# Updating the version of reflex-frp
+
+To update the version of reflex-frp and associated packages, look in
+the githib.json files for the appropriate revisions and add/update the
+packages in stack.yaml.
+
 
